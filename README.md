@@ -2,7 +2,7 @@
 
 > **Gasless, compliant, real-time payroll for global Web3 teams — powered by $USN on Neura**
 
-!Demo live:(https://dappit-1-1769428497498.vercel.app/)  
+DEMO LIVE: https://dappit-1-1769428497498.vercel.app/ 
 
 ## 🎯 Problem
 DAOs and Web3 teams struggle with payroll due to:
